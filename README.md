@@ -8,5 +8,5 @@ the items
 - State management Getx
 - Firebase as a backend
 
-- [Demo of the project](https://www.linkedin.com/posts/mahmoud-gida_e-commerce-shopping-app-in-flutter-using-activity-6839146267889684480-HtuY)
+[Demo of the project](https://www.linkedin.com/posts/mahmoud-gida_e-commerce-shopping-app-in-flutter-using-activity-6839146267889684480-HtuY)
 
